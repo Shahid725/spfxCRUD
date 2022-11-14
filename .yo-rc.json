@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "hello-form",
+    "libraryId": "b19bf45a-301b-435e-9e30-71c7055c9a87",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "hello form",
+    "solutionShortDescription": "hello form description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
